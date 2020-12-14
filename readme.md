@@ -7,5 +7,5 @@
 > Below steps can be used to execute the project
 
 - npm install
-- npm start - node production env script
+- npm run start - node production env script
 - npm run dev - nodemon developement env script
