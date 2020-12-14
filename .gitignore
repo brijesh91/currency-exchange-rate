@@ -1,0 +1,4 @@
+/node_modules
+/config/config.env
+/old_data.json
+/today_data.json
